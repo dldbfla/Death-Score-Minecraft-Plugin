@@ -1,0 +1,4 @@
+name: deathscore
+version: '1.0-SNAPSHOT'
+main: tes.deathscore.Deathscore
+api-version: '1.19'

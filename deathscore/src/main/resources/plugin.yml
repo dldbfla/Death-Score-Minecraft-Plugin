@@ -1,0 +1,4 @@
+name: deathscore
+version: '${project.version}'
+main: tes.deathscore.Deathscore
+api-version: '1.19'
