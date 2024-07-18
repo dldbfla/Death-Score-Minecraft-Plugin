@@ -1,1 +1,2 @@
-# Death-Score-Minecraft-Plugin
+# 데스 스코어 보드  플러그인
+
